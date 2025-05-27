@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on projects that implement machine learning algorithms.
+🔭 I’m currently working on projects that implement machine learning algorithms and practicing my skills daily. 
  
 
 
